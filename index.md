@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## Proyectos NLP 2020 FUKL
 
-You can use the [editor on GitHub](https://github.com/andresfukl20/Portafolio_2020/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](https://miro.medium.com/max/418/1*WssnLJ__IAUURwqms-I8LA.png) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Mi nombre es Andrés Martínez, soy estudiante de la Especialización Analítica Estratégica de Datos. A continuación son algunos de los trabajos realizadon puestos en práctica de la Electiva vista en este semestre II-2020. 
 
-### Markdown
+### Proyectos
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [Taller 2](https://github.com/andresfukl20/Electiva_NLP/blob/master/Taller_2_NLP.ipynb) ,adquisición de datos extrayendo desde un ZIP.
+- [Taller 3](https://github.com/andresfukl20/Electiva_NLP/blob/master/Taller%203%20-%20Pre-Procesamiento%20de%20Textos-Soluci%C3%B3n.ipynb) ,procesamiento de texto y normalización de texto con las diferentes herramientas.
+- [Taller 4](https://github.com/andresfukl20/Electiva_NLP/blob/master/Taller%204%20-%20Feature%20Engineering-Soluci%C3%B3n.ipynb) ,feature Engineering espacio semántico vectorial de texto.
+- [Taller 5](https://github.com/andresfukl20/Electiva_NLP/blob/master/Taller%205%20-%20TFIDF-Soluci%C3%B3n.ipynb) ,representación vectorial de texto parte II.
+- [Taller 6](https://github.com/andresfukl20/Electiva_NLP/blob/master/Taller%206%20-%20Word2Vec-Soluci%C3%B3n.ipynb) ,representación vectorial de texto parte III.
+- [Taller 7](https://github.com/andresfukl20/Electiva_NLP/blob/master/Taller%207%20-%20ClassificationKMeans-Soluci%C3%B3n.ipynb) ,métodos de agrupación y clasificación. 
+- [Taller 8](https://github.com/andresfukl20/Electiva_NLP/blob/master/Taller%208%20-%20Modelado%20de%20Temas-Soluci%C3%B3n.ipynb) ,modelado de temas con LDA.
+- [Taller 9](https://github.com/andresfukl20/Electiva_NLP/blob/master/Taller%209-%20Visualizaci%C3%B3n.html) ,nube de palabras con representación de figuras parte I.
+- [Taller 9](https://github.com/andresfukl20/Electiva_NLP/blob/master/Taller%209-%20Visualizaci%C3%B3n.zip) ,nube de palabras con representación de figuras parte II.
+- [Taller 10](https://github.com/andresfukl20/Electiva_NLP/blob/master/Taller%2010%20-%20Twitter-Soluci%C3%B3n.ipynb) ,NLP y redes sociales. Practica de procesamiento de texto con Twitter.
+- [Taller 11](https://github.com/andresfukl20/Electiva_NLP/blob/master/Taller%2011%20-%20Sentimiento-Soluci%C3%B3n.ipynb) ,análisis de sentimiento.
+ 
 
-```markdown
-Syntax highlighted code block
+### Contacto
 
-# Header 1
-## Header 2
-### Header 3
+Cualquier inquietud o comentarios, me pueden escribir al correo andresr.martinezv@konradlorenz.edu.co
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/andresfukl20/Portafolio_2020/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
