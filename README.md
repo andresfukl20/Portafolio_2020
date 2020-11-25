@@ -2,7 +2,7 @@
 
 ![Image](https://miro.medium.com/max/418/1*WssnLJ__IAUURwqms-I8LA.png) 
 
-Mi nombre es Andrés Martínez, soy estudiante de la Especialización Analítica Estratégica de Datos. A continuación son algunos de los trabajos realizadon puestos en práctica de la Electiva vista en este semestre II-2020. 
+Mi nombre es Andrés Martínez, soy estudiante de la Especialización Analítica Estratégica de Datos de la FUKL. A continuación son algunos de los trabajos desarrollados puestos en práctica de la Electiva NLP vista en este semestre II-2020. 
 
 ### Proyectos
 
